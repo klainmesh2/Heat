@@ -1,0 +1,12 @@
+{
+  "name": "cloudheatsolutions",
+  "version": "0.0.0",
+  "authors": [
+    "calvin@overpass.co.uk"
+  ],
+  "description": "Cloud Solution for RDC Heat Engineer",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.3"
+  }
+}
